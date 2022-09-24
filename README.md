@@ -1,4 +1,5 @@
 [![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+[![CircleCI](https://circleci.com/gh/circleci/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/myaqut/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
