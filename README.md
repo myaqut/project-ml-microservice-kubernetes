@@ -48,3 +48,15 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Repo Files : 
+
+* App.py : includes the application source code
+* Makefile : prepares your enviroment for the project
+* Dockerfile : Containerize the application to run on docker image 
+* requirments.txt : includes the required dependencies to run the application
+* run_docker.sh : build and run the application using docker
+* upload_docker.sh : upload the built image to your dockerhub account
+* make_predection.sh : script is responsible for sending some input data to your containerized application via the appropriate port
+* output_txt_files : includes the results of predection while running the predection on docker without Kubernetes and with Kubernetes 
+
